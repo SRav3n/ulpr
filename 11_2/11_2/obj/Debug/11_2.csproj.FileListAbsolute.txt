@@ -1,0 +1,10 @@
+D:\op progi\11_2\11_2\bin\Debug\11_2.exe.config
+D:\op progi\11_2\11_2\bin\Debug\11_2.exe
+D:\op progi\11_2\11_2\bin\Debug\11_2.pdb
+D:\op progi\11_2\11_2\obj\Debug\11_2.csproj.AssemblyReference.cache
+D:\op progi\11_2\11_2\obj\Debug\_11_2.Form1.resources
+D:\op progi\11_2\11_2\obj\Debug\_11_2.Properties.Resources.resources
+D:\op progi\11_2\11_2\obj\Debug\11_2.csproj.GenerateResource.cache
+D:\op progi\11_2\11_2\obj\Debug\11_2.csproj.CoreCompileInputs.cache
+D:\op progi\11_2\11_2\obj\Debug\11_2.exe
+D:\op progi\11_2\11_2\obj\Debug\11_2.pdb

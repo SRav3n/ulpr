@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\op progi\\8_1 laba\\laba_8_opr\\laba_8_opr.csproj": {}
+  },
+  "projects": {
+    "D:\\op progi\\8_1 laba\\laba_8_opr\\laba_8_opr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\op progi\\8_1 laba\\laba_8_opr\\laba_8_opr.csproj",
+        "projectName": "laba_8_opr",
+        "projectPath": "D:\\op progi\\8_1 laba\\laba_8_opr\\laba_8_opr.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\op progi\\8_1 laba\\laba_8_opr\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

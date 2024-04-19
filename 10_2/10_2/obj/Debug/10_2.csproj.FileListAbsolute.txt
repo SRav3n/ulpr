@@ -1,0 +1,10 @@
+D:\op progi\10_2\10_2\bin\Debug\10_2.exe.config
+D:\op progi\10_2\10_2\bin\Debug\10_2.exe
+D:\op progi\10_2\10_2\bin\Debug\10_2.pdb
+D:\op progi\10_2\10_2\obj\Debug\10_2.csproj.AssemblyReference.cache
+D:\op progi\10_2\10_2\obj\Debug\_10_2.Form1.resources
+D:\op progi\10_2\10_2\obj\Debug\_10_2.Properties.Resources.resources
+D:\op progi\10_2\10_2\obj\Debug\10_2.csproj.GenerateResource.cache
+D:\op progi\10_2\10_2\obj\Debug\10_2.csproj.CoreCompileInputs.cache
+D:\op progi\10_2\10_2\obj\Debug\10_2.exe
+D:\op progi\10_2\10_2\obj\Debug\10_2.pdb

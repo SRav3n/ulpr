@@ -1,0 +1,28 @@
+D:\op progi\laba_8_opr\laba_8_opr\bin\Debug\net8.0\laba_8_opr.exe
+D:\op progi\laba_8_opr\laba_8_opr\bin\Debug\net8.0\laba_8_opr.deps.json
+D:\op progi\laba_8_opr\laba_8_opr\bin\Debug\net8.0\laba_8_opr.runtimeconfig.json
+D:\op progi\laba_8_opr\laba_8_opr\bin\Debug\net8.0\laba_8_opr.dll
+D:\op progi\laba_8_opr\laba_8_opr\bin\Debug\net8.0\laba_8_opr.pdb
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\laba_8_opr.GeneratedMSBuildEditorConfig.editorconfig
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\laba_8_opr.AssemblyInfoInputs.cache
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\laba_8_opr.AssemblyInfo.cs
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\laba_8_opr.csproj.CoreCompileInputs.cache
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\laba_8_opr.dll
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\refint\laba_8_opr.dll
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\laba_8_opr.pdb
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\laba_8_opr.genruntimeconfig.cache
+D:\op progi\laba_8_opr\laba_8_opr\obj\Debug\net8.0\ref\laba_8_opr.dll
+D:\op progi\8_1 laba\laba_8_opr\bin\Debug\net8.0\laba_8_opr.exe
+D:\op progi\8_1 laba\laba_8_opr\bin\Debug\net8.0\laba_8_opr.deps.json
+D:\op progi\8_1 laba\laba_8_opr\bin\Debug\net8.0\laba_8_opr.runtimeconfig.json
+D:\op progi\8_1 laba\laba_8_opr\bin\Debug\net8.0\laba_8_opr.dll
+D:\op progi\8_1 laba\laba_8_opr\bin\Debug\net8.0\laba_8_opr.pdb
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\laba_8_opr.GeneratedMSBuildEditorConfig.editorconfig
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\laba_8_opr.AssemblyInfoInputs.cache
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\laba_8_opr.AssemblyInfo.cs
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\laba_8_opr.csproj.CoreCompileInputs.cache
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\laba_8_opr.dll
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\refint\laba_8_opr.dll
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\laba_8_opr.pdb
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\laba_8_opr.genruntimeconfig.cache
+D:\op progi\8_1 laba\laba_8_opr\obj\Debug\net8.0\ref\laba_8_opr.dll
